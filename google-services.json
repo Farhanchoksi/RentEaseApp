@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1070739532822",
+    "project_id": "rent-management-data",
+    "storage_bucket": "rent-management-data.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070739532822:android:14533dec61d59d5023d937",
+        "android_client_info": {
+          "package_name": "com.rentease.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-p_rzAnzwKmWv7wHZthhJqi4MNVKAqM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
