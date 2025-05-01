@@ -1,10 +1,10 @@
 {
   "type": "service_account",
   "project_id": "rent-management-data",
-  "private_key_id": "3d8cbe6e97462017a45fb778f14d3b9ce965c6ba",
+  "private_key_id": "Your key",
   "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCrkgI53z3b7kTx\nCOX6M6oBo7yF3KR0S5qiVEjmbVK2j28JORlUNG9X4RUlc2SZHXwc/CfhD6hToPDf\nQxlazd2GimtHd6BA4u+Qu9eXqL/D1K14dfvNQTEkwoctLo3RCb5IeRn913riPNCY\nrLj+1OnbXrMbiehF7eCzl7okDquWtx9LSU0jOHwSsCnHkVL+MX3oDidkb63fVh1m\ns0CIhpJd/P2bm3VIBCPHVjBKMofKXEqocA4Y5B2fzywYsVPN8IkmXa67PqvN3zXI\nWC+YHKj/2hAhnMs874ppsxvbz/LbOgWMs/R+kk9kF/IRDns5A+1NdNIvKZvb6CWm\nY3QclJnbAgMBAAECggEAA1Ae9eIfLiuELklXM4Ui38Q7JDSWAl7hXggVnkl3IupT\nIRD2sb8PdVl10JLRWvmMR30BAiIMxIyjihQgHbZC9FGg77DaKdaX/Kn76ERMa6ok\nLWLN2XFMUyLkfFVdTK+M+pZID7RE/bBh8MjJC7aty1whRkNb9lm5EI65++9Clfbs\nK1VayQToEKIrRPU6vYLE2VjznNtQ80OCBGaiocduP68v0OMgeVg8/S8738gn5XFk\njywdyr78yFwKfKQVaj2PmnYwqqYsLUv6XqHe+FyKqCqXkdZo+hpcXeyCLBT5BrS3\npwFzbsI2YeIPQ0nwZwly3HwqWCqOXo2RQO55s0rx4QKBgQDdAv2ZTSo3QGb7FTT0\nCkaGejhKPzzxKTU0I33xM/lu6TasrK7lxjIiyYDfkqpEV1lBm8yqV9dfoHeWoaVY\nFMs5D++eFHXa7a1/RrZFBa2qtQ7gw0czTvGesHLM4PoV/ICvaLIvv+aXT4pD9KpF\nZ/zKAG4gldacr7KoCQavtYCZIQKBgQDGu0ssOaVDMewl3xFH18wlOXtyk5AIWjIM\nlLNumgab5cR+1qkf2RDzQFeUR3TombE1PKWfQXLK37gbphC5z86pmNlA7jnUubo5\n31iQmzsaEK+GRFgO+cHyi0FM8ElzVrwYmVCsuxnwgBVJgGI/75qhCdwlWAEPvRAB\nNKFRPpcnewKBgQC9qn1b/D7IX7qAqzhgXhkb+vMntJFmHIkOD49bWdErf3RuR1to\n0Ofhtq+kLkd0ksmEZmIDpZKs/Bbk7B/rMR0eATEPpltl4CbOXS66mR7qqqrz9GG8\nBHmSR7adYEz+ZU1CO0T/eV44aAguPV+KZK0p5aicyjn9CUL2tZhJXifYQQKBgQCb\n8GFnPYCJPoYfnW7w4ctFtlpAqLuPYj79kj1N3zyqXdwW7xfcbraXOXi/WGbLEbZ0\noLcRRQjvWiccQu3C7+YpPE/VXFkyq94OBUx4g+YXaNpiUASNE7v1NwIxficUgw2r\ne7pLH7GV/ts1RrFRnBDIpnUBNJH4qJEDcSnYF3YCOwKBgQDcFbGBj2R6zPrhsuAS\nvOqrBSGFqDsbijlqvy/RbROfX7qlvj1YMf+/L6ZGPaJNBu7zzZudA2TSc/1exAb0\nVd0AMCZj2jzfNkg8xOcKcpHBNSSdx5d3kSRVdi1zAOZPAyFe2J+nb36Dkhvjb5v0\nv1teWtfBFHOHt6U4lByy0wyRdA==\n-----END PRIVATE KEY-----\n",
   "client_email": "notification@rent-management-data.iam.gserviceaccount.com",
-  "client_id": "115521051799890926673",
+  "client_id": "Client id",
   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
   "token_uri": "https://oauth2.googleapis.com/token",
   "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
